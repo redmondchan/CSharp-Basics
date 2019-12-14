@@ -13,6 +13,13 @@ class MainClass {
     var yourName = Console.ReadLine();
     Console.WriteLine("Your name is {0}", yourName);
 
+    const int num = 13;
+    //num = 9; //error
+    Console.WriteLine($" {num} ");
+
+    const int color;
+    color = red;
+    Console.WriteLine($" {color}");
 
   }
 }
