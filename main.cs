@@ -17,9 +17,14 @@ class MainClass {
     //num = 9; //error
     Console.WriteLine($" {num} ");
 
-    const int color;
-    color = red;
-    Console.WriteLine($" {color}");
+    // const int color;
+    // color = red;
+    // Console.WriteLine($" {color}");
+
+    int a = 1;
+    int b = 2; 
+    int c = a + b;
+    Console.WriteLine($"{a}, {b}, {c}");
 
   }
 }
