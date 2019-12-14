@@ -6,5 +6,8 @@ class MainClass {
 
     int x = 100; 
     Console.WriteLine("I have {0} dogs", x);
+
+    var yourName = Console.ReadLine();
+    Console.WriteLine("Your name is {0}", yourName);
   }
 }
