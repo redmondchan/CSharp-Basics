@@ -1,2 +1,4 @@
 # CSharp-Basics
-I'm learning the basics of C#. This will be my playground to test a lot of the basics of C#.
+This is just me playing around with the basics of C# to become more familiar with the language. You can check it out here:
+
+https://repl.it/@redmondchan/CSharp-Basics
